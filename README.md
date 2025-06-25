@@ -1,4 +1,5 @@
-Cold Chain Spoilage Analysis – Case Study
+# Cold Chain Spoilage Analysis – Case Study
+
 This project explores a simulated cold chain logistics dataset to identify the key factors that contribute to product spoilage during temperature-sensitive shipments. Using descriptive statistics and visual analytics, we analyze how variables such as transit time, ambient temperature, packaging type, and temperature excursions impact the likelihood and cost of spoilage.
 
 The dataset includes the following fields:
