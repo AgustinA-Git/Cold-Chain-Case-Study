@@ -17,13 +17,13 @@ The dataset includes the following fields:
 
 - Ambient Temperature (C): Temperature at origin
 
-- Carrier, Shipment_Cost_USD, Delivery_Time_Window
+- Carrier, Shipment Cost (USD), Delivery Time Window
 
 - Temp_Excursion: Deviation from optimal temperature
 
 - Spoilage? (Binary): Flag indicating spoilage
 
-- Spoilage_Cost_USD: Associated financial loss
+- Spoilage Cost (USD): Associated financial loss
 
 Objective
 The goal is to determine which operational factors most strongly influence spoilage, enabling smarter decisions in packaging, routing, and scheduling to minimize waste and financial loss.
