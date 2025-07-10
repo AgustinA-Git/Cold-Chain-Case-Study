@@ -48,12 +48,12 @@ How much should we actually spend on these cooling methods to minimize total exp
 
 The model takes into account:
 
-The effectiveness of each unit of dry ice and gel packs in reducing spoilage probability,
+- The effectiveness of each unit of dry ice and gel packs in reducing spoilage probability,
 
-The cost per unit of each cooling method,
+- The cost per unit of each cooling method,
 
-The value lost for each spoiled box, and
+- The value lost for each spoiled box, and
 
-The total number of boxes loaded.
+- The total number of boxes loaded.
 
 The goal is to minimize overall costs, combining both direct cooling expenses and the expected spoilage losses.
